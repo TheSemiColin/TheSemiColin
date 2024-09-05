@@ -12,6 +12,3 @@ I'm currently exploring Machine Learning with Sci-Kit Learn!<br>Looking to colla
 ![](https://github-readme-stats.vercel.app/api?username=TheSemiColin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheSemiColin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSemiColin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=TheSemiColin&icon=0&color=0)](https://visitcount.itsvg.in)

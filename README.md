@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a current sophomore at Vanderbilt University double majoring in Electrical and Computer Engineering & Computer Science.<br><br><br>I have been intrigued by software development and its intersection with hardware ever since I started learning about the basic architecture of a computer from YouTube videos. Once I was introduced to an Arduino during my senior year of high school, my love and passion for the field has grown ever since.<br>
+I am a current sophomore at Vanderbilt University double majoring in Electrical and Computer Engineering & Computer Science.<br>I have been intrigued by software development and its intersection with hardware ever since I started learning about the basic architecture of a computer from YouTube videos. Once I was introduced to an Arduino during my senior year of high school, my love and passion for the field has grown ever since.<br>
 
 # 🚀 What I'm Up To:
 - Currently exploring Machine Learning with Sci-Kit Learn! - Member of the Vandy Robotics Team in the Programming subteam, discovering ways in which we can autonomize movement using OpenCV<br><br>- Member of the Vanderbilt Fusion Project Computational Physics Team, researching ways in which we can simulate fusion reactor tests using OpenMC<br>- Looking to collaborate on full-stack web applications<br>

@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a current sophomore at Vanderbilt University double majoring in Electrical and Computer Engineering & Computer Science.<br><br>I have been intrigued by software development and its intersection with hardware ever since I started learning about the basic architecture of a computer from YouTube videos. Once I was introduced to an Arduino during my senior year of high school, my love and passion for the field has grown ever since.<br>
+I am a current sophomore at Vanderbilt University double majoring in Electrical and Computer Engineering & Computer Science.<br><br>I have been intrigued by software development and its intersection with hardware ever since I started learning about the basic architecture of a computer from YouTube videos. Once I was introduced to an Arduino during my senior year of high school, is sparked my love and passion for the field of software development, which has grown ever since.<br>
 
 # 🚀 What I'm Up To:
 - Currently exploring Machine Learning with Sci-Kit Learn!

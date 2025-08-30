@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a current Junior at Vanderbilt University majoring in Electrical & Computer Engineering and Applied Mathematics, and minoring in Computer Science, with a concentrations in Embedded Systems and Artificial Intelligence.<br><br>I have been intrigued by software development and its intersection with hardware ever since I started learning about the basic architecture of a computer from YouTube videos. Once I was introduced to an Arduino during my senior year of high school, is sparked my love and passion for the field of software development, which has grown ever since.<br>
+I am a current Junior at Vanderbilt University majoring in Electrical & Computer Engineering and Applied Mathematics, and minoring in Computer Science, with a concentrations in Embedded Systems and Artificial Intelligence.<br><br>I have been intrigued by software development and its intersection with hardware ever since I started learning about the basic architecture of a computer from YouTube videos. Once I was introduced to an Arduino during my senior year of high school, it sparked my love and passion for the field of software development, which has grown ever since.<br>
 
 # 🚀 What I'm Up To:
 - Currently exploring Machine Learning with Tensorflow and Tensorflow Lite!
